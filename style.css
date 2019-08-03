@@ -10,3 +10,10 @@ body {
 	border-radius: 5px;
 	background-color: #FFF0F3;
 }
+a:link, a:visited {
+	color: blue;
+	text-decoration: none;
+}
+a:hover, a:active {
+	text-decoration: underline;
+}
