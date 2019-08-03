@@ -4,5 +4,9 @@ body {
 	margin: auto;
 }
 #table-of-contents {
+	margin-top: 10px;
 	margin-left: 10px;
+	border: 1px solid gray;
+	border-radius: 5px;
+	background-color: #FFF0F3;
 }
